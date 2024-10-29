@@ -146,7 +146,6 @@ public final class UseListsAndMaps {
          *
          * Oceania -> 38,304,000
          */
-
         Map<String, Long> map = new HashMap<String,Long>();
         map.put("Africa", 1110635000L);
         map.put("Americas", 1110635000L);
@@ -154,7 +153,6 @@ public final class UseListsAndMaps {
         map.put("Asia", 4298723000L);
         map.put("Europe", 742452000L);
         map.put("Oceania", 38304000L);
-
 
         /*
          * 8) Compute the population of the world
